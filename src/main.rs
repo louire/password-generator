@@ -15,5 +15,5 @@ fn main() {
     
 
 
-    println!("{}", result);
+    println!("Aqui esta tu password, no es como que quisiera dartela pero aqui esta: /ln {}", result); // Print the result
 }
